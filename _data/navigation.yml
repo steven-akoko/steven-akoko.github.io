@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "GitHub"
+    url: https://github.com/steven-akoko
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/steven-akoko?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx7ipr0UgTea%2FRv6VeNBgTQ%3D%3D
