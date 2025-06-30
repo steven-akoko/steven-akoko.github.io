@@ -81,7 +81,7 @@ A machine learning-based security project focused on detecting fraudulent paymen
 ## 🏅 Certificates and Badges 
 
 Click to view some of my certificates and badges I have achieved in various platform 
-- 🎓 [Microsoft Learn Achievements](https://learn.microsoft.com/en-us/users/stevenakoko-7144/achievements)
+- 🎓 [Microsoft Learn Achievements](https://learn.microsoft.com/en-us/users/stevenakoko-0390/)
 
 ---
 
