@@ -15,7 +15,7 @@ author_profile: true
 
 ## 👨‍💻 Professional Summary
 
-IT and Cybersecurity professional with 2+ years of experience in system installation, technical support, security administration, and database management. Currently upskilling in Cloud Security with Microsoft ADC and Cyber Shujaa.
+IT and Cybersecurity professional with experience in system installation, technical support, security administration, and database management. Currently upskilling in Cloud Security with Microsoft ADC and Cyber Shujaa.
 
 ---
 
