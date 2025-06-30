@@ -67,12 +67,24 @@ IT and Cybersecurity professional with 2+ years of experience in system installa
 
 ---
 
+## 💻 Projects
+
+### 🔗 [Link360.co.ke](https://link360.co.ke)  
+A business platform connecting small-scale retailers and professionals. Built using PHP and MySQL.
+
+### 🧠 Mental Health App  
+A web-based app aimed at promoting mental wellness and awareness. Developed with a focus on accessibility and user experience.
+
+### 🔐 SPAY (Secure Payment Layer)  
+A machine learning-based security project focused on detecting fraudulent payment activities. Developed during cybersecurity training at FabLab Winam in collaboration with World Bank and KIEP SKIES.
+
+## 🏅 Certificates and Badges 
+
+Click to view some of my certificates and badges I have achieved in various platform 
+- 🎓 [Microsoft Learn Achievements](https://learn.microsoft.com/en-us/users/stevenakoko-7144/achievements)
+
+---
+
 ## 👥 Referees
 
-**Dr. Mulimba Kennedy**  
-📧 kennedymulimba@gmail.com | 📞 +254 715 275 610
-
-**Mr. Fredrick Owido**  
-ICT Officer, Kisumu County Assembly  
-📧 fredrickowido@gmail.com | 📞 +254 728 814 893
-
+**Available upon request.**
