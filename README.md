@@ -1,27 +1,32 @@
-# Minimal Mistakes remote theme starter
+# Steven Akoko's Portfolio & Cybersecurity Blog
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to my personal website and blog, built with [Jekyll](https://jekyllrb.com/) using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/).
 
-Contains basic configuration to get you a site with:
+This site showcases my projects, cybersecurity learning journey, certifications, and professional experience. It also includes my downloadable CV and a blog section featuring technical write-ups and reflections from my upskilling programs.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## 📁 Features
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- ✅ Personal introduction & profile
+- ✅ Full CV page (`_pages/cv.md`)
+- ✅ Portfolio section
+- ✅ Cybersecurity blog posts & updates
+- ✅ Microsoft ADC and Cyber Shujaa training journey
+- ✅ MITRE ATT&CK and Microsoft Learn badge highlights
+- ✅ Responsive design using Minimal Mistakes theme
 
----
+## 📄 Key Files & Folders
 
-## Troubleshooting
+- `_posts/` - Blog posts in Markdown
+- `_pages/` - Custom standalone pages like `cv.md`, `about.md`, etc.
+- `_data/` - Configuration data (navigation, authors, etc.)
+- `_config.yml` - Main site configuration
+- `_sass/custom/` - Custom SCSS overrides (e.g., font size)
+- `assets/` - Images, CSS, and other static assets
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## 🚀 Local Development
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+If you want to run the site locally:
+
+```bash
+bundle install
+bundle exec jekyll serve
